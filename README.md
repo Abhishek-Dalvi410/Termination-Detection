@@ -9,6 +9,6 @@ A process that is in the active state can perform the following actions:
 
 Process 0 is the detector process.
 
-*The safety and progress property is been explained in the report* 
+*The safety and progress property is been explained in the report*. \n
 *If you were to try out this code, assign MaxT=3; a larger value will result in too many states*
 
